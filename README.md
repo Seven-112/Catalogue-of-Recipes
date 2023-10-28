@@ -43,7 +43,7 @@ Navigate to your desired location to download the contents of this repository.
 In order to clone this repository just type the following commands over the terminal in Linux or Mac or the Windows cmd console.
 
 ```s
-git clone https://github.com/guillainbisimwa/Catalogue-of-Recipes.git
+git clone https://github.com/myshine112/Catalogue-of-Recipes.git
 
 ```
 
@@ -92,31 +92,3 @@ In order to test this project locally, just type this command:
 npm test
 
 ```
-
-## Author
-
-👤 **Guillain Bisimwa**
-
-- Github : [@guillainbisimwa](https://github.com/guillainbisimwa)
-- Twitter : [@gullain_bisimwa](https://twitter.com/gullain_bisimwa)
-- Linkedin : [guillain-bisimwa](https://www.linkedin.com/in/guillain-bisimwa-8a8b7a7b/)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/guillainbisimwa/Catalogue-of-Recipes/issues).
-
-## Acknowledgments
-
-- [Pexels Image & Video API](https://www.pexels.com/api/)
-- Design by Marc-Antoine Roy on [Behance](https://www.behance.net/gallery/11351281/NomNom)
-- Microverse
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## 📝 License
-
-This project is [MIT](LICENSE) licensed.
